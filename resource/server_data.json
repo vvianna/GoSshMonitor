@@ -1,0 +1,305 @@
+{
+	"servers": [
+		{
+			"site": "Teste",
+			"hostname": "Contabo",
+			"ip": "209.126.81.97",
+			"user": "root",
+			"password": "reAtTxvsG2boupNh"
+		},
+		{
+			"site": "SNE",
+			"hostname": "yasne1fe000",
+			"ip": "10.46.157.194",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "SNE",
+			"hostname": "yasne1fe001",
+			"ip": "10.46.157.195",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "SNE",
+			"hostname": "VHSS-000",
+			"ip": "10.46.157.196",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "SNE",
+			"hostname": "VHSS-001",
+			"ip": "10.46.157.197",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "SNE",
+			"hostname": "VHLR-000",
+			"ip": "10.46.157.198",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "SNE",
+			"hostname": "VHLR-001",
+			"ip": "10.46.157.199",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "SNE",
+			"hostname": "ASAORCH-000",
+			"ip": "10.46.157.202",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "SNE",
+			"hostname": "ASAORCH-001",
+			"ip": "10.46.157.203",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "SNE",
+			"hostname": "MySQL-000",
+			"ip": "10.46.157.204",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "SNE",
+			"hostname": "MySQL-001",
+			"ip": "10.46.157.205",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "SNE",
+			"hostname": "TSLEE-BE-000",
+			"ip": "10.46.157.206",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "SNE",
+			"hostname": "TSLEE-BE-001",
+			"ip": "10.46.157.207",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "SNE",
+			"hostname": "TSLEE-FE-000",
+			"ip": "10.46.157.208",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "SNE",
+			"hostname": "TSLEE-FE-001",
+			"ip": "10.46.157.209",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "SNE",
+			"hostname": "PROV-000",
+			"ip": "10.46.157.210",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "SNE",
+			"hostname": "PROV-001",
+			"ip": "10.46.157.211",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "SNE",
+			"hostname": "CDR-BE-000",
+			"ip": "10.46.157.215",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "SNE",
+			"hostname": "CDR-BE-001",
+			"ip": "10.46.157.216",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "SNE",
+			"hostname": "CDR-BE-102",
+			"ip": "10.46.157.217",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "SNE",
+			"hostname": "ASABE-000",
+			"ip": "10.46.157.218",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "SNE",
+			"hostname": "ASABE-001",
+			"ip": "10.46.157.219",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "RJO",
+			"hostname": "yarjo1fe100",
+			"ip": "10.46.153.194",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "RJO",
+			"hostname": "yarjo1fe101",
+			"ip": "10.46.153.195",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "RJO",
+			"hostname": "VHSS-100",
+			"ip": "10.46.153.196",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "RJO",
+			"hostname": "VHSS-101",
+			"ip": "10.46.153.197",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "RJO",
+			"hostname": "VHLR-100",
+			"ip": "10.46.153.198",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "RJO",
+			"hostname": "VHLR-101",
+			"ip": "10.46.153.199",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "RJO",
+			"hostname": "ASAORCH-100",
+			"ip": "10.46.153.202",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "RJO",
+			"hostname": "ASAORCH-101",
+			"ip": "10.46.153.203",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "RJO",
+			"hostname": "MySQL-100",
+			"ip": "10.46.153.204",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "RJO",
+			"hostname": "MySQL-101",
+			"ip": "10.46.153.205",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "RJO",
+			"hostname": "TSLEE-BE-100",
+			"ip": "10.46.153.206",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "RJO",
+			"hostname": "TSLEE-BE-101",
+			"ip": "10.46.153.207",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "RJO",
+			"hostname": "TSLEE-FE-100",
+			"ip": "10.46.153.208",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "RJO",
+			"hostname": "TSLEE-FE-101",
+			"ip": "10.46.153.209",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "RJO",
+			"hostname": "PROV-100",
+			"ip": "10.46.153.210",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "RJO",
+			"hostname": "PROV-101",
+			"ip": "10.46.153.211",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "RJO",
+			"hostname": "CDR-BE-100",
+			"ip": "10.46.153.215",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "RJO",
+			"hostname": "CDR-BE-101",
+			"ip": "10.46.153.216",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "RJO",
+			"hostname": "CDR-BE-102",
+			"ip": "10.46.153.217",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "RJO",
+			"hostname": "ASABE-100",
+			"ip": "10.46.153.218",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		},
+		{
+			"site": "RJO",
+			"hostname": "ASABE-101",
+			"ip": "10.46.153.219",
+			"user": "comviva_admin",
+			"password": "Comviva@123"
+		}
+	]
+}
